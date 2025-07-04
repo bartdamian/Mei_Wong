@@ -56,6 +56,11 @@ h2 {
     min-height: 500px;
     padding: 5% 7%;
 }
+/* buttons */   
+.custom-button:hover {
+    background-color:#1d6d8a;
+    border-color:#1d6d8a;
+}
 
 /* Media queries */
 
